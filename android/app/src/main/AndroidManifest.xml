@@ -2,7 +2,7 @@
     package="sagnikbhattacharya1506.com.launch_pad">
    <application
         android:label="LaunchPad"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
