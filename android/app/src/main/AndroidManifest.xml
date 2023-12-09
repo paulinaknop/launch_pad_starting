@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.paulinaknop.launchpad_initial">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
    <application
         android:label="LaunchPad"
         android:icon="@mipmap/ic_launcher">

@@ -1,16 +1,6 @@
-# launch_pad
+# launch_pad_starting
+🚀 Complete Flutter Guide: Build Android, IOS and Web by Coding Liquids!
+🎵 Launch Pad Music App: Dive into a musical journey with pads that play unique sounds. Crafted by Sagnik Bhattacharya from Coding Liquids for the course "Complete Flutter Guide: Build Android, iOS, and Web". An interactive way to learn Flutter!
 
-A launch pad app started with Sagnik Bhattacharya and Paulina Knop.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Launch Pad Project 🚀
+Welcome to the initial project for our Flutter course: the Launch Pad application. This starting project serves as a foundation for your Flutter learning journey. By building upon this, you'll reinforce the concepts taught throughout the course and experience real-world application development.
